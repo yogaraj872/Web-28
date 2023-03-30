@@ -1,0 +1,54 @@
+*{
+  margin:0px;
+  padding:0px;
+    
+}
+Body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.login{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(217, 228, 197);
+    margin: 7% auto;
+    padding: 2%;
+    border-radius: 5%;
+    text-align: center;
+    box-shadow:2px 2px;
+}
+.button{
+    margin: 8% auto;
+    border-radius: 5px;
+    width:25% ;
+    padding:0px 0px 3px 0px;
+    color:black;
+    text-align: center;
+}
+.button:hover{
+   background-color:greenyellow; 
+   color:black ;
+}
+.login_name{
+    border-radius: 2%;
+    width:70% ;
+    height: 8% ;
+}
+.contact_us{
+    margin: 50px ;
+    margin-left:20px ;
+    padding: 50px;
+    width: 350px;
+    height: 400px;
+    text-align:center;
+    box-sizing: border-box;
+    box-shadow: 2px 2px;
+    background-color: aquamarine;
+    border-radius:4%;
+}
+.{
+    margin-left: 30px;
+    margin-bottom: 4%;
+    margin: 50px;   
+}
